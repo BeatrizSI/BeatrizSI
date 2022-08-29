@@ -28,7 +28,7 @@
   <a href = "mailto:biasi9757@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/beatriz-magalh%C3%A3es-114518208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/Beatriz_SI#9534/Beatriz_SI#9534/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/BeatrizSI/BeatrizSI/blob/output/github-contribution-grid-snake.svg)
   
   
 </div>
