@@ -1,8 +1,8 @@
 ### Olá! Eu sou Beatriz Magalhães 👋
 
-- :computer: Hoje trabalho como Desenvolvedora Full Stack
+- :computer: Hoje trabalho como Desenvolvedora Full Stack (Estagio)
 - 🌱 Estou estudando react, python, RPA ...
-- 🤔 Buscando oportunidades como Dev...
+- 🤔 Buscando oportunidades como Desenvolvedora
 - 😄 Pronouns: ela/dela
 - ⚡ Apaixonada por tecnologia. 
 
